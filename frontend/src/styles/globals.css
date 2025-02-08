@@ -5,3 +5,17 @@
 body {
   @apply bg-secondary text-primary font-sans;
 }
+/* Blog Post Styling */
+.prose {
+  @apply max-w-full text-lg leading-relaxed;
+}
+.prose h2 {
+  @apply text-3xl font-semibold mt-6;
+}
+.prose p {
+  @apply mt-4 text-gray-700;
+}
+.prose img {
+  @apply rounded-lg shadow-md;
+}
+

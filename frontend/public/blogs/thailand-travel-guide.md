@@ -9,11 +9,12 @@ slug: "thailand-travel-guide"
 ---
 
 # **Best Places to Visit in Bangkok in 1 Day for Solo Travelers**  
-Bangkok, a vibrant mix of ancient temples, street markets, and modern skyscrapers, is the perfect city for a solo adventure. Whether you're a culture enthusiast, foodie, or nightlife explorer, this **1-day itinerary** ensures you experience the best of Bangkok.
+1Bangkok, a vibrant mix of ancient temples, street markets, and modern skyscrapers, is the perfect city for a solo adventure. Whether you're a culture enthusiast, foodie, or nightlife explorer, this **1-day itinerary** ensures you experience the best of Bangkok.
 
-![Bangkok Skyline](https://source.unsplash.com/800x400/?bangkok,skyline)
+![Bangkok Skyline](https://images.unsplash.com/photo-1563492065599-3520f775eeed?q=80&w=1548&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ---
+
 
 ## **🌅 Morning: Grand Palace & Wat Phra Kaew (8:00 AM - 10:30 AM)**  
 Start your day early at **Bangkok’s most iconic landmarks** – the **Grand Palace** and **Wat Phra Kaew (Temple of the Emerald Buddha).**  
